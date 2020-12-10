@@ -24,6 +24,7 @@ body{
     grid-row-gap: 20px;
     grid-column-gap: 20px;
     /* overflow: hidden; */
+    background-color:red;
 }
 .meals .meal{
     box-shadow: 1px 1px 5px rgba(0,0,0,0.4);
